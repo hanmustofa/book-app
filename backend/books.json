@@ -81,13 +81,13 @@
       "status": "reading"
     },
     {
-      "id": 9,
-      "title": "Menua Bersamamu",
-      "author": "Mustofa",
-      "cover": "",
-      "rating": 0,
-      "pages": 0,
-      "genre": "",
+      "id": 11,
+      "title": "True Love Mustofa",
+      "author": "Mustofa Han",
+      "cover": "https://covers.openlibrary.org/b/id/12749901-L.jpg",
+      "rating": 4.3,
+      "pages": 11,
+      "genre": "romance",
       "status": "Reading"
     }
   ]
