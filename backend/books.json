@@ -79,6 +79,16 @@
       "pages": 688,
       "genre": "Sci-Fi",
       "status": "reading"
+    },
+    {
+      "id": 9,
+      "title": "Menua Bersamamu",
+      "author": "Mustofa",
+      "cover": "",
+      "rating": 0,
+      "pages": 0,
+      "genre": "",
+      "status": "Reading"
     }
   ]
 }
